@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Challenge (includes Enrichment) (enrichmentChallenge.py)
+# Name:        Challenge (includes Enrichment) (enrichment04Challenge.py)
 # Purpose:     Read in data from hamlet.txt and execute functions
 #
 # Author:      627944

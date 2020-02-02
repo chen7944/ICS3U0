@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Enrichment (Dictionaries) (enrichmentDictionaries.py)
+# Name:        Enrichment (Dictionaries) (enrichment01Dictionaries.py)
 # Purpose:     Demonstrate understanding of dictionaries
 #
 # Author:      627944

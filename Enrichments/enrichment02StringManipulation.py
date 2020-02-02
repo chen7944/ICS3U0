@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Enrichment (String Manipulation) (enrichmentStringManipulation.py)
+# Name:        Enrichment (String Manipulation) (enrichment02StringManipulation.py)
 # Purpose:     Demonstrate understanding of string manipulation
 #
 # Author:      627944

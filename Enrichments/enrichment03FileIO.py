@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Enrichment (File IO) (enrichmentFileIO.py)
+# Name:        Enrichment (File IO) (enrichment03FileIO.py)
 # Purpose:     Demonstrate understanding of file read and write
 #
 # Author:      627944
