@@ -1,2 +1,3 @@
 # ICS3U0
-2019/2020 Semester 1: Grade 11 Introduction to Computer Science - Code
+
+A Collection of My ICS3U0 Coursework Code
